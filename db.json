@@ -1,0 +1,76 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "description": "Coffee",
+      "amount": 2.5,
+      "date": "2024-03-12"
+    },
+    {
+      "id": "2",
+      "description": "Shoes",
+      "amount": 52.95,
+      "date": "2024-03-18"
+    },
+    {
+      "id": "3",
+      "description": "Book",
+      "amount": 25,
+      "date": "2024-04-10"
+    },
+    {
+      "id": "4",
+      "description": "Lunch",
+      "amount": 15.25,
+      "date": "2024-04-24"
+    },
+    {
+      "amount": 19.95,
+      "date": "2024-04-25T22:00:00.000Z",
+      "description": "Grocery by weekend",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "description": "Packt Publishing",
+      "amount": 21.5,
+      "date": "2024-03-12"
+    },
+    {
+      "id": "7",
+      "description": "Pool Supplies",
+      "amount": 52.95,
+      "date": "2024-03-18"
+    },
+    {
+      "id": "8",
+      "description": "Notebooks",
+      "amount": 25,
+      "date": "2024-04-10"
+    },
+    {
+      "id": "9",
+      "description": "Theatre tickets",
+      "amount": 15.25,
+      "date": "2024-04-25"
+    },
+    {
+      "id": "12cf",
+      "amount": 55,
+      "date": "2024-04-26T22:00:00.000Z",
+      "description": "Tole"
+    },
+    {
+      "id": "0231",
+      "amount": 12,
+      "date": "2024-04-27T22:00:00.000Z",
+      "description": "Jos nesto"
+    },
+    {
+      "id": "b322",
+      "amount": 44,
+      "date": "2024-04-23T22:00:00.000Z",
+      "description": "Golf"
+    }
+  ]
+}
